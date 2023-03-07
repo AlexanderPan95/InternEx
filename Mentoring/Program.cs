@@ -7,7 +7,7 @@ namespace Mentoring
     {
         static void Main(string[] args)
         {
-            //KatalarNumbers();
+            KatalarNumbers();
         }
 
         public static void WriteToFile(string filePath)

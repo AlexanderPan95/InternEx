@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alex\\source\\repos\\Mentoring\\Mentoring\\Mentoring.csproj",
+      "projectUniqueName": "D:\\Sasho\\MartinIntern\\Mentoring\\Level1\\Mentoring\\Mentoring.csproj",
       "projectName": "Mentoring",
-      "projectPath": "C:\\Users\\alex\\source\\repos\\Mentoring\\Mentoring\\Mentoring.csproj",
+      "projectPath": "D:\\Sasho\\MartinIntern\\Mentoring\\Level1\\Mentoring\\Mentoring.csproj",
       "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alex\\source\\repos\\Mentoring\\Mentoring\\obj\\",
+      "outputPath": "D:\\Sasho\\MartinIntern\\Mentoring\\Level1\\Mentoring\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,0 +1,16 @@
+C:\Users\alex\source\repos\Mentoring\Mentoring\bin\Debug\net5.0\Mentoring.exe
+C:\Users\alex\source\repos\Mentoring\Mentoring\bin\Debug\net5.0\Mentoring.deps.json
+C:\Users\alex\source\repos\Mentoring\Mentoring\bin\Debug\net5.0\Mentoring.runtimeconfig.json
+C:\Users\alex\source\repos\Mentoring\Mentoring\bin\Debug\net5.0\Mentoring.runtimeconfig.dev.json
+C:\Users\alex\source\repos\Mentoring\Mentoring\bin\Debug\net5.0\Mentoring.dll
+C:\Users\alex\source\repos\Mentoring\Mentoring\bin\Debug\net5.0\ref\Mentoring.dll
+C:\Users\alex\source\repos\Mentoring\Mentoring\bin\Debug\net5.0\Mentoring.pdb
+C:\Users\alex\source\repos\Mentoring\Mentoring\obj\Debug\net5.0\Mentoring.csproj.AssemblyReference.cache
+C:\Users\alex\source\repos\Mentoring\Mentoring\obj\Debug\net5.0\Mentoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\source\repos\Mentoring\Mentoring\obj\Debug\net5.0\Mentoring.AssemblyInfoInputs.cache
+C:\Users\alex\source\repos\Mentoring\Mentoring\obj\Debug\net5.0\Mentoring.AssemblyInfo.cs
+C:\Users\alex\source\repos\Mentoring\Mentoring\obj\Debug\net5.0\Mentoring.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\Mentoring\Mentoring\obj\Debug\net5.0\Mentoring.dll
+C:\Users\alex\source\repos\Mentoring\Mentoring\obj\Debug\net5.0\ref\Mentoring.dll
+C:\Users\alex\source\repos\Mentoring\Mentoring\obj\Debug\net5.0\Mentoring.pdb
+C:\Users\alex\source\repos\Mentoring\Mentoring\obj\Debug\net5.0\Mentoring.genruntimeconfig.cache
